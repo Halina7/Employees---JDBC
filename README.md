@@ -1,4 +1,4 @@
-# Employees - projekt na zajęcia z JDBC
+﻿# Employees - projekt na zajęcia z JDBC
 ## Wprowadzenie
 Repozytorium zawiera przykłady użycia JDBC do omówienia podczas kursu prowadzonego w SDA. Przykłady zakładają, że 
 uczniowie posiadają zaimportowaną bazę Employees z przykładowych baz MySQL: https://dev.mysql.com/doc/employee/en/employees-preface.html
@@ -26,5 +26,5 @@ jego managera.
   - dodanie Departamentu
   - ustawienie menadżera departamentu w danym okresie.
 3. Dodać repozytorium dla encji Zatrudnienie
-  -
+ 
 
